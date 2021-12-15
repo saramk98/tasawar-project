@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/drawable/call.xml" value="0.21666666666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/drawable/searchicon.xml" value="0.21666666666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/drawable/serc.xml" value="0.21666666666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/activity_fragmentmanager.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/activity_manager.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/activity_signup.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/fragment_aboutme.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/fragment_create_blog.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/fragment_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/fragment_my_blogs.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/layout/row.xml" value="0.22" />
+        <entry key="..\:/Documents/smd/Project/tasawar/app/src/main/res/menu/menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/drawable/serc.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/activity_fragmentmanager.xml" value="0.209375" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/activity_manager.xml" value="0.1" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/fragment_aboutme.xml" value="0.209375" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/fragment_create_blog.xml" value="0.209375" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/layout/fragment_my_blogs.xml" value="0.209375" />
+        <entry key="..\:/Users/Sheryar Ali/AndroidStudioProjects/projectxmls/app/src/main/res/menu/menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
